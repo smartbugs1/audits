@@ -1,6 +1,6 @@
 # smartbugs Audits & Security Research 🔒
 
-![smartbugs-logo](https://example.com/image.jpg)
+![smartbugs-logo](smartbugs.jpg)
 
 ## Introduction
 
