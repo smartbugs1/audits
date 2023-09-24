@@ -52,10 +52,4 @@ I'm open to collaborations and contributions from the community. If you're inter
 
 ---
 
-## ⚖ License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
-
----
-
 © 2023 smartbugs. All rights reserved.
